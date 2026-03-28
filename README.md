@@ -1,4 +1,4 @@
-# SHG Operational Grading System
+# SHG Grading System
 
 # Project Overview
 The SHG Operational Grading System is a Java-based console application designed to evaluate and grade Self Help Groups (SHGs) based on their operational performance.  
